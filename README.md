@@ -21,4 +21,4 @@ loadstring(game:HttpGet("soon"))()
 You can learn how to use all the features of this script in [the wiki](https://github.com/DeezVrOfficial/DTASLOI-Yield/wiki)!
 
 ## Contributing
-There is no specific rules on contributing (as of now) just open a [pull request](https://github.com/DeezVrOffcial/DTASLOI-Yield/pulls) and if it checks out we will merge it!
+There is no specific rules on contributing (as of now) just open a [pull request](https://github.com/DeezVrOfficial/DTASLOI-Yield/pulls) and if it checks out we will merge it!
