@@ -1,4 +1,4 @@
 {
-	"Version": "6.4.1",
-	"Announcement": ""
+	"Version": "1.0.0",
+	"Announcement": "My first release of this universal script! Thanks for using it. Made by Deez, forked from Infinite Yield"
 }
